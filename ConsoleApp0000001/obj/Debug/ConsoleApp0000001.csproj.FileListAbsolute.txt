@@ -1,0 +1,7 @@
+C:\Users\Maksim\Desktop\Учёба\ConsoleApp0000001\obj\Debug\ConsoleApp0000001.csproj.AssemblyReference.cache
+C:\Users\Maksim\Desktop\Учёба\ConsoleApp0000001\obj\Debug\ConsoleApp0000001.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\Desktop\Учёба\ConsoleApp0000001\bin\Debug\ConsoleApp0000001.exe.config
+C:\Users\Maksim\Desktop\Учёба\ConsoleApp0000001\bin\Debug\ConsoleApp0000001.exe
+C:\Users\Maksim\Desktop\Учёба\ConsoleApp0000001\bin\Debug\ConsoleApp0000001.pdb
+C:\Users\Maksim\Desktop\Учёба\ConsoleApp0000001\obj\Debug\ConsoleApp0000001.exe
+C:\Users\Maksim\Desktop\Учёба\ConsoleApp0000001\obj\Debug\ConsoleApp0000001.pdb
